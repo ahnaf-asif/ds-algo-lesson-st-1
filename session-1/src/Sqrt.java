@@ -9,6 +9,7 @@ public class Sqrt {
 
         while(left <= right){
             mid = (left + right)/2;
+
             int mul = mid * mid;
             
             if(mul == x){
@@ -16,7 +17,7 @@ public class Sqrt {
                 break;
             }
             else if(mul < x){
-                ans = Math.min(ans, mid);
+                ans = Math.max(ans, mid);
                 left = mid + 1;
             }else{
                 right = mid - 1;
