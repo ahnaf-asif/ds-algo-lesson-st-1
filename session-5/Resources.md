@@ -1,5 +1,5 @@
 ## Study Materials
-
+* [Concrete Mathematics](https://doc.lagout.org/science/0_Computer%20Science/3_Theory/Mathematics/Concrete%20Mathematics.pdf) - Read the chapter 4. You don't have to study them throughly, but having a good idea of the topics will help you grow some problem-solving skills in mathematics-related problems
 ## Problems
 ### Easy
 * [Eolymp - Cake from Toyla](https://www.eolymp.com/en/problems/1033)
